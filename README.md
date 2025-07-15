@@ -14,14 +14,17 @@
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/task-manager.git
+git clone https://github.com/Ajaykumar0077/task-manager.git
 cd task-manager
 npm install
 npm start
 ```
 
 ## 📸 Preview
-[You can add screenshot here]
+output:
+https://drive.google.com/file/d/18bR54AzAyn5HmabQ_pfzm4QrMK7IJpLf/view?usp=sharing
+UI:
+https://drive.google.com/file/d/11fPyw67xwFuZlsaAza8VddeE1mW1kUEW/view?usp=sharing
 
 ---
 
